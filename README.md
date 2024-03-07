@@ -14,4 +14,7 @@ The image can be recorded while in color blind mode.
 
 For the colorblind mode's algorithm, the following research paper was referenced.
 
-    Hyun-Ji Kim, Jae-Young Cho, and Sung-Jea Ko. "Re-coloring Methods using the HSV Color Space for people with the Red-green Color Vision Deficiency," Journal of The Institute of Electronics Engineers of Korea, Vol. 50(3), pp. 616-619, 2013. https://koreascience.kr/article/JAKO201310837317613.page
+    Hyun-Ji Kim, Jae-Young Cho, and Sung-Jea Ko.
+    "Re-coloring Methods using the HSV Color Space for people with the Red-green Color Vision Deficiency,"
+    Journal of The Institute of Electronics Engineers of Korea, Vol. 50(3), pp. 616-619, 2013.
+    https://koreascience.kr/article/JAKO201310837317613.page
