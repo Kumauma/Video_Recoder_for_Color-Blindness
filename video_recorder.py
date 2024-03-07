@@ -57,6 +57,15 @@ while True:
         (0, 0, 255) if recording else (0, 255, 0),
         2,
     )
+    cv.putText(
+        img_show,
+        f"Color Blindness: {'On' if color_blindness else 'Off'}",
+        (40, 55),
+        cv.FONT_HERSHEY_SIMPLEX,
+        0.6,
+        (255, 0, 0) if color_blindness else (0, 255, 0),
+        2,
+    )
     cv.imshow("Video Player", img_show)
 
     # 키보드 입력 처리
