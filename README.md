@@ -12,7 +12,7 @@ By pressing the tap key, you can enter and exit color-blindness mode. Just like 
 The image can be recorded while in color blind mode.
 
 <br>
-For the colorblind mode's algorithm, the following research paper was referenced.
+For the colorblind mode's algorithm, the following research paper was referenced.<br>
 
     Hyun-Ji Kim, Jae-Young Cho, and Sung-Jea Ko.
     "Re-coloring Methods using the HSV Color Space for people with the Red-green Color Vision Deficiency,"
