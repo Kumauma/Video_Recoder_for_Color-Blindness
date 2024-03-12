@@ -1,4 +1,4 @@
-# Video_Recoder_for_Color-Blindness
+# Video Recoder for Color-Blindness
 A simple video recorder that records images of a computer's webcam for color-blindness using OpenCV
 <center>
 <img width="70%" src="https://github.com/Kumauma/Video_Recoder_for_Color-Blindness/assets/51203951/a1d41cbb-f582-4cfa-85df-574e99ea4e52"/>
