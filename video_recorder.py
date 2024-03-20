@@ -36,10 +36,8 @@ color_blindness = False
 
 while True:
     # 'video'에서 이미지를 읽어옴
-    if not color_blindness:
-        valid, img = video.read()
-    else:
-        valid, img = video.read()
+    valid, img = video.read()
+    if color_blindness:
         img = adjust_hsv_for_cvd(img)
     if not valid:
         break
